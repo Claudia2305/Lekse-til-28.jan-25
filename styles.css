@@ -31,3 +31,14 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+img{ 
+  width: 1000px;
+  height: auto;
+}
+
+p {
+    background-color: rgb(64, 0, 255);
+    color: white;
+    border-radius: 50px;
+  }
