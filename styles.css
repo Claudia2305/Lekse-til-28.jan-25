@@ -9,7 +9,7 @@ body {
   background-color: white;
 }
 
-nav {
+.navbar{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -19,22 +19,9 @@ nav {
   border-bottom: solid 1px #aaa;
   background-color: #eee;
 }
-
-nav a {
-  display: inline-block;
-  min-width: 9rem;
-  padding: 0.5rem;
-  border-radius: 0.2rem;
-  border: solid 1px #aaa;
-  text-align: center;
-  text-decoration: none;
-  color: #555;
-}
-
-nav a[aria-current='page'] {
-  color: #000;
-  background-color: #d4d4d4;
-}
+.navbarprikk{
+  list-style-type:none;
+  }
 
 main {
   padding: 1rem;
